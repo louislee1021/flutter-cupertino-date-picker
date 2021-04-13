@@ -1,6 +1,10 @@
 name: example
 description: A new Flutter application.
 
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.22.3 <2.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
